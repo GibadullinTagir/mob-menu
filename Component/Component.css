@@ -1,0 +1,26 @@
+.component__round-button {
+    border-radius: 20px;
+    padding: 0;
+    border: 0px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.component__decor-line {
+    height: 32px;
+    width: 2px;
+    border-color:#EAEAEA;
+    background:#EAEAEA ;
+    border-radius: 1px;
+}
+
+.component__decor-line__margin {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.component__logo {
+    width: 96.55px;
+    height: 50.81px;
+}
