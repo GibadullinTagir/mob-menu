@@ -1,1 +1,1 @@
-https://github.com/GibadullinTagir/supreme-bassoon.git
+https://gibadullintagir.github.io/supreme-bassoon/
